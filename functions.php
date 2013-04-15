@@ -594,7 +594,4 @@ require_once( get_template_directory() .'/functions/widgets/recent-portfolio.php
 // Load files ONLY in the back-end
 if ( defined( 'WP_ADMIN' ) && WP_ADMIN ) {
 	require_once( get_template_directory() .'/mce/shortcode-popup.php');
-	require_once( get_template_directory() .'/functions/meta/meta-box-class.php');
-	require_once( get_template_directory() .'/functions/meta/meta-box-usage.php');
-	require_once( get_template_directory() .'/functions/custom-editor-columns.php');
 }
