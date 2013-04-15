@@ -1,0 +1,1821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-26 13:43-0800\n"
+"PO-Revision-Date: 2012-12-26 13:43-0800\n"
+"Last-Translator: WPExplorer <wpexplore@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../404.php:11
+msgid "homepage"
+msgstr ""
+
+#: ../author.php:12
+msgid "Posts by"
+msgstr ""
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:15
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../comments.php:46
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:46
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:46
+msgid " to post a comment."
+msgstr ""
+
+#: ../comments.php:54
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Username"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:61 ../single-portfolio.php:49 ../single-portfolio.php:124
+#: ../single-portfolio.php:218 ../includes/full-portfolio.php:23
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Add Comment"
+msgstr ""
+
+#: ../footer.php:36
+msgid "back up"
+msgstr ""
+
+#: ../footer.php:48
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:433
+msgid "HP Slides"
+msgstr ""
+
+#: ../functions.php:434
+msgid "Slide"
+msgstr ""
+
+#: ../functions.php:436
+msgid "Add New Slide"
+msgstr ""
+
+#: ../functions.php:437
+msgid "Edit Slide"
+msgstr ""
+
+#: ../functions.php:438
+msgid "New Slide"
+msgstr ""
+
+#: ../functions.php:439
+msgid "View Slide"
+msgstr ""
+
+#: ../functions.php:440
+msgid "Search Slides"
+msgstr ""
+
+#: ../functions.php:441
+msgid "No Slides found"
+msgstr ""
+
+#: ../functions.php:442
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: ../functions.php:460
+msgid "HP Highlights"
+msgstr ""
+
+#: ../functions.php:461
+msgid "Highlight"
+msgstr ""
+
+#: ../functions.php:463
+msgid "Add New Highlight"
+msgstr ""
+
+#: ../functions.php:464
+msgid "Edit Highlight"
+msgstr ""
+
+#: ../functions.php:465
+msgid "New Highlight"
+msgstr ""
+
+#: ../functions.php:466
+msgid "View Highlight"
+msgstr ""
+
+#: ../functions.php:467
+msgid "Search Highlights"
+msgstr ""
+
+#: ../functions.php:468
+msgid "No Highlights found"
+msgstr ""
+
+#: ../functions.php:469
+msgid "No Highlights found in Trash"
+msgstr ""
+
+#: ../functions.php:493 ../admin/functions/functions.options.php:616
+#: ../functions/breadcrumbs.php:182
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:525 ../functions/breadcrumbs.php:198
+msgid "Staff"
+msgstr ""
+
+#: ../functions.php:558 ../functions/breadcrumbs.php:190
+msgid "Services"
+msgstr ""
+
+#: ../functions.php:590
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions.php:622 ../taxonomy-faqs_cats.php:13
+#: ../functions/breadcrumbs.php:206
+msgid "FAQs"
+msgstr ""
+
+#: ../functions.php:677
+msgid "Categories"
+msgstr ""
+
+#: ../functions.php:678 ../functions/meta/meta-box-usage.php:241
+#: ../functions/meta/meta-box-usage.php:247
+#: ../functions/meta/meta-box-usage.php:253
+#: ../functions/meta/meta-box-usage.php:259
+msgid "Category"
+msgstr ""
+
+#: ../functions.php:679
+msgid "Search Categories"
+msgstr ""
+
+#: ../functions.php:680
+msgid "All Categories"
+msgstr ""
+
+#: ../functions.php:681
+msgid "Parent Category"
+msgstr ""
+
+#: ../functions.php:682
+msgid "Parent Category:"
+msgstr ""
+
+#: ../functions.php:683
+msgid "Edit  Category"
+msgstr ""
+
+#: ../functions.php:684
+msgid "Update Category"
+msgstr ""
+
+#: ../functions.php:685
+msgid "Add New  Category"
+msgstr ""
+
+#: ../functions.php:686
+msgid "New Category Name"
+msgstr ""
+
+#: ../functions.php:687
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../functions.php:849
+msgid "read more"
+msgstr ""
+
+#: ../functions.php:858
+msgid "Top"
+msgstr ""
+
+#: ../functions.php:859
+msgid "Main"
+msgstr ""
+
+#: ../functions.php:860 ../admin/functions/functions.options.php:840
+msgid "Footer"
+msgstr ""
+
+#: ../search.php:50
+msgid "No results found for that query."
+msgstr ""
+
+#: ../single-faqs.php:12
+msgid "FAQ"
+msgstr ""
+
+#: ../single-portfolio.php:45 ../single-portfolio.php:120
+#: ../single-portfolio.php:214 ../includes/full-portfolio.php:19
+msgid "Date"
+msgstr ""
+
+#: ../single-portfolio.php:46 ../single-portfolio.php:121
+#: ../single-portfolio.php:215 ../includes/full-portfolio.php:20
+msgid "Labeled"
+msgstr ""
+
+#: ../single-portfolio.php:47 ../single-portfolio.php:122
+#: ../single-portfolio.php:216 ../functions/meta/meta-box-usage.php:164
+#: ../includes/full-portfolio.php:21
+msgid "Cost"
+msgstr ""
+
+#: ../single-portfolio.php:48 ../single-portfolio.php:123
+#: ../single-portfolio.php:217 ../functions/meta/meta-box-usage.php:171
+#: ../includes/full-portfolio.php:22
+msgid "Client"
+msgstr ""
+
+#: ../single-portfolio.php:49 ../single-portfolio.php:124
+msgid "Visit Website"
+msgstr ""
+
+#: ../single-portfolio.php:246
+msgid "Related Items"
+msgstr ""
+
+#: ../single-portfolio.php:247
+msgid "View all"
+msgstr ""
+
+#: ../single-testimonials.php:12
+msgid "Testimonial by"
+msgstr ""
+
+#: ../template-faqs.php:66
+msgid "All FAQs"
+msgstr ""
+
+#: ../template-faqs.php:66 ../template-portfolio-with-filter.php:48
+#: ../functions/meta/meta-box-class.php:129
+#: ../functions/meta/meta-box-class.php:148
+#: ../functions/meta/meta-box-class.php:168
+#: ../functions/meta/meta-box-class.php:187
+#: ../functions/meta/meta-box-class.php:206
+#: ../functions/widgets/recent-portfolio.php:92
+msgid "All"
+msgstr ""
+
+#: ../template-sitemap.php:47
+msgid "Feeds"
+msgstr ""
+
+#: ../template-sitemap.php:59
+msgid "Tags"
+msgstr ""
+
+#: ../template-sitemap.php:78
+msgid "Archives by Month"
+msgstr ""
+
+#: ../template-sitemap.php:93
+msgid "Blog Categories"
+msgstr ""
+
+#: ../template-sitemap.php:117
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../template-sitemap.php:148
+msgid "Pages"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:510
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:570
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+#: ../functions/meta/meta-box-usage.php:114
+#: ../functions/meta/meta-box-usage.php:191
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:98
+msgid "General"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:101
+msgid "Enable or Disable Responsive Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:102
+msgid "Select to enable/disable the responsive layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:108
+msgid "Main Logo Upload"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:109
+msgid ""
+"Upload your custom logo using the native media uploader, or define the URL "
+"directly"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:114
+msgid "Custom Login Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:115
+msgid "Upload a custom logo for your Wordpress login screen."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:120
+msgid "Custom Login Logo Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:121
+msgid ""
+"Enter the height of your custom logo to override the default WordPress image "
+"height. Width, must not be changed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:126
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:127
+msgid "Upload or past the URL for your custom favicon."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:132
+msgid "Enable or Disable Top Bar"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:133
+msgid "Select to enable/disable the top bar"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:139
+msgid "Top Bar Static or Fixed"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:140
+msgid ""
+"Select if you want a static or fixed top bar. The Fixed option will keep the "
+"bar always visible."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:146
+msgid "Top Bar Callout Button Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:147
+msgid "Enter the text for your top bar callout button."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:152
+msgid "Top Bar Callout Button Link"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:153
+msgid "Enter the url to link your top bar callout button to"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:158
+msgid "Top Bar Link Target"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:159
+msgid "Select your link target"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:165
+msgid "Enable or Disable Header Search Bar"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:166
+msgid "Select to enable/disable the search bar in the header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:172
+msgid "Header Callout Text (Phone Number)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:173
+msgid ""
+"Enter your text for the callout area in the header. This is the area where "
+"you most likely want to add a phone number."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:178
+msgid "Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:181
+msgid "Header Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:182
+msgid "Select your header style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:188
+msgid "Header Top/Bottom Padding"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:189
+msgid "Enter your header top and bottom padding in pixels. Default is 25px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:194
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:195
+msgid "Enter a top margin value for your logo in pixels Default is 0px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:200
+msgid "Header Social/Phone/Search Top Margin"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:201
+msgid ""
+"Enter a top margin value for your header aside section which includes the "
+"social icons, phone number and search form. Default is 25px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:206
+msgid "Enable or Disable Main Wrapper Background Pattern"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:207
+msgid ""
+"Select to enable/disable the light diamond pattern on main content background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:213
+msgid "Enable or Disable Main Wrapper Shadow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:214
+msgid "Select to enable/disable the main wrapper drop shadow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:220
+msgid "Enable or Disable Right Border On Last Menu Item"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:221
+msgid ""
+"Select to enable/disable the border on the lasst menu icon. Best if you do "
+"not have a lot of menu items on your main navigation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:228
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:229
+msgid "Select the sidebar position for your site. Choose left or right."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:246
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:247
+msgid ""
+"Select your background color. Will come through on some background images, "
+"not all."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:252
+msgid "Highlight Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:253
+msgid ""
+"Select your highlight color.This will change all main instances of the "
+"Orange color on this theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:258
+msgid "Main Body Link Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:259
+msgid "Select your main link color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:264
+msgid "Homepage Tagline Link Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:265
+msgid "Select your homepage tagline link color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:270
+msgid "Nav Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:271
+msgid "Select your navigation background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:276
+msgid "Nav Link Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:277
+msgid "Select your navigation link color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:282
+msgid "Nav Link Hover Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:283
+msgid "Select your navigation hover background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:288
+msgid "Nav Link Hover Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:289
+msgid "Select your navigation link hover color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:294
+msgid "Nav Current Item Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:295
+msgid "Select your navigation current item background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:300
+msgid "Nav Current Item Link Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:301
+msgid "Select your navigation current item text color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:306
+msgid "Nav Light Border Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:307
+msgid "Select your navigation light border color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:312
+msgid "Nav Dark Border Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:313
+msgid "Select your navigation dark border color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:318
+msgid "Slider Caption Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:319
+msgid "Select your slider caption background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:324
+msgid "Slider Caption Text Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:325
+msgid "Select your slider caption text color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:330
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:331
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:336
+msgid "Fonts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:342
+msgid "Font Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:343
+msgid ""
+"Here you can change the fonts for the main elements of the Office theme "
+"using Google Font options that will load only when used. Some fonts dont "
+"look great bold, so if a font looks bad try changing the font weight value."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:353
+msgid "Headings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:354
+msgid ""
+"Deadings font properties. This will be applied to h1, h2, h3, h4, h5, h6 "
+"tags."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:359
+msgid "Top Callout Button"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:360
+msgid "Top callout button font properties."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:365
+msgid "Navigation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:366
+msgid "Navigation button font properties."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:371
+msgid "Slider Caption"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:372
+msgid "Slider caption font properties."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:377
+msgid "Homepage Tagline"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:378
+msgid "Homepage tagine font properties."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:383
+msgid "Social"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:386
+msgid "Enable or Disable Social Icons In Header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:387
+msgid "Select to enable/disable the social icons in the header."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:393
+msgid "Social Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:394
+msgid "Select your social icon style."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:403
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:404
+msgid "Add your twitter url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:409
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:410
+msgid "Add your dribbble url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:415
+msgid "Forrst"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:416
+msgid "Add your forrst url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:421
+msgid "Flickr"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:422
+msgid "Add your flickr url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:427
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:428
+msgid "Add your facebook url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:433
+msgid "LinkedIn"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:434
+msgid "Add your LinkedIn url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:439
+msgid "Google Plus"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:440
+msgid "Add your Google Plus url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:445
+msgid "Google"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:446
+msgid "Add your Google url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:451
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:452
+msgid "Add your youtube url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:457
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:458
+msgid "Add your vimeo url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:463
+msgid "RSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:464
+msgid "Add your rss url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:469
+msgid "Support"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:470
+msgid "Add your support url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:475
+msgid "Mail"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:476
+msgid "Add your mail/contact url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:481
+#: ../functions/breadcrumbs.php:13
+msgid "Home"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:487
+msgid "Home Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:488
+msgid ""
+"Here you can edit your homepage layout and section settings. The homepage "
+"module is an important part of the homepage layout, if you do not see the "
+"homepage modules below click the reset button on the bottom left of the "
+"theme panel"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:492
+msgid "Enable or Disable Blog Style Homepage"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:493
+msgid "Select to enable/disable the blog style homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:499
+msgid "Homepage Layout Manager"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:500
+msgid "Organize how you want the layout to appear on the homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:505
+msgid "Homepage Static Video"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:506
+msgid ""
+"Enter your embded code or WordPress shortcode for your homepage static video "
+"module. Best used for replacing the image slider. <strong>Use 970px for the "
+"width when embedding videos</strong>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:511
+msgid "Tagline Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:512
+msgid ""
+"Enter your custom title for the homepage tagline module. Leave blank to show "
+"nothing."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:517
+msgid "Tagline URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:518
+msgid "Enter a url to link your homepage tagline module title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:523
+msgid "Tagline Content"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:524
+msgid "Control your homepage tagline here. HTML and shortcodes allowed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:529
+msgid "Highlights Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:530
+msgid ""
+"Enter your custom title for the homepage highlights module. Leave blank to "
+"show nothing."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:535
+msgid "Highlights Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:536
+msgid "Enter a url to link your highlights title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:541
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:542
+msgid ""
+"Enter your custom title for the latest portfolio items module. Leave blank "
+"to show nothing."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:547
+msgid "Portfolio Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:548
+msgid "Enter a url to link your portfolio items title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:553
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:554
+msgid ""
+"If you do not want to show all the recent portfolio items, select a specific "
+"category below."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:560
+msgid "How Many Latest Portfolio Items"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:561
+msgid "How many latest portfolio items do you want to show on the homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:566
+msgid "Blog Posts Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:567
+msgid ""
+"Enter your custom title for the latest blog items module. Leave blank to "
+"show nothing."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:572
+msgid "Blog Items Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:573
+msgid "Enter a url to link your blog items title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:578
+#: ../functions/meta/meta-box-usage.php:235
+msgid "Blog Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:579
+msgid ""
+"If you do not want to show all the recent blog posts, select a specific "
+"category below."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:585
+msgid "How Many Latest Blog Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:586
+msgid "How many latest blog items do you want to show on the homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:591
+msgid "Blog Items Excerpt Length"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:592
+msgid "Enter your excerpt length for the latest blog items."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:597
+msgid "Static Page Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:598
+msgid "Enter the text for your static page module. (optional)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:603
+msgid "Static Page Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:604
+msgid "Enter the url for your static page module. (optional)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:609
+msgid "Static Page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:610
+msgid ""
+"Select a page for your homepage static page module. <strong>Important:</"
+"strong> Pages with custom loops like the portfolio, services, staff..etc, "
+"pages will not work.This only shows the content from the post editor."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:619
+msgid "Portfolio Items Per Portfolio Page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:620
+msgid ""
+"How many portfolio items do you wish to show on the portfolio page before "
+"activating the pagination. (filtered portfolio will always show all)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:625
+msgid "Portfolio Items Per Portfolio Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:626
+msgid ""
+"How many portfolio items do you wish to show on the portfolio categories "
+"before activating the pagination."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:631
+msgid "Disable Portfolio Meta Box (date, client, link)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:632
+msgid ""
+"Select to enable or disable the portfolio meta. This is the note-paper style "
+"box with the post details."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:638
+msgid "Disable or Enable Related Items"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:639
+msgid ""
+"Select to enable or disable the related portfolio items on single portfolio "
+"posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:645
+#: ../functions/breadcrumbs.php:58
+msgid "Blog"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:648
+msgid "Full Content Entries"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:649
+msgid ""
+"Select to enable the full content for entries. This means the entries for "
+"the blog posts will show the entire post content with a large featured image "
+"instead of the small image on the left and title, meta and excerpt on the "
+"right."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:655
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:656
+msgid ""
+"Add your own custom blog excerpt length. Used for blog page, archives and "
+"search results."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:661
+msgid "Enable or Disable Single Blog Post Featured Images."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:662
+msgid "Select to enable or disable the featured image on blog posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:668
+msgid "Enable or Disable Single Blog Post Meta"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:669
+msgid ""
+"Select to enable or disable the meta box with the date and categories from "
+"the single blog posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:675
+msgid "Comments"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:678
+msgid "Disable/Enable Comments On Pages"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:679
+msgid "Select to enable/disable comments on regular pages."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:685
+msgid "Disable/Enable Comments On Blog Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:686
+msgid "Select to enable/disable comments on blog posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:692
+msgid "Disable/Enable Comments On Portfolio Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:693
+msgid "Select to enable/disable comments on portfolio posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:699
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:702
+msgid "Enable or Disable Breadcrumbs"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:703
+msgid "Select to enable/disable breadcrumbs navigation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:709
+msgid "Portfolio Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:710
+msgid "Enter the URL to your portfolio page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:715
+msgid "Staff Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:716
+msgid "Enter the URL to your staff page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:721
+msgid "Service Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:722
+msgid "Enter the URL to your service page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:727
+msgid "Testimonials Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:728
+msgid "Enter the URL to your testimonials page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:733
+msgid "FAQs Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:734
+msgid "Enter the URL to your FAQs page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:739
+msgid "Blog Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:740
+msgid "Enter the URL to your blog page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:745
+msgid "Post Types"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:751
+msgid "Important"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:752
+msgid ""
+"Here you can change the names and slugs of your post types. Make sure to "
+"<strong>re-save your permalink settings</strong> after making any changes in "
+"here. You will also need to refresh your page to see any effects, because "
+"the theme panel saves using AJAX."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:756
+msgid "Custom Portfolio Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:757
+msgid "Enter a custom name for your portfolio post type."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:762
+msgid "Custom Portfolio Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:763
+msgid ""
+"Enter a custom slug for your portfolio post type. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:768
+msgid "Custom Portfolio Taxonomy (Cateogory) Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:769
+msgid ""
+"Enter a custom slug for your portfolio taxnomy. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:774
+msgid "Custom Staff Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:775
+#: ../admin/functions/functions.options.php:793
+#: ../admin/functions/functions.options.php:811
+#: ../admin/functions/functions.options.php:823
+msgid "Enter a custom name for your staff post type."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:780
+msgid "Custom Staff Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:781
+#: ../admin/functions/functions.options.php:799
+#: ../admin/functions/functions.options.php:817
+#: ../admin/functions/functions.options.php:829
+msgid ""
+"Enter a custom slug for your staff post type. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:786
+msgid "Custom Staff Taxonomy (Cateogory) Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:787
+msgid ""
+"Enter a custom slug for your staff taxnomy. Go <strong>save your permalinks</"
+"strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:792
+msgid "Custom Services Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:798
+msgid "Custom Services Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:804
+msgid "Custom Services Taxonomy (Cateogory) Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:805
+msgid ""
+"Enter a custom slug for your services taxnomy. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:810
+msgid "Custom Testimonials Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:816
+msgid "Custom Testimonials Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:822
+msgid "Custom FAQs Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:828
+msgid "Custom FAQs Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:834
+msgid "Custom FAQs Taxonomy (Cateogory) Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:835
+msgid ""
+"Enter a custom slug for your faqs taxnomy. Go <strong>save your permalinks</"
+"strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:843
+msgid "Enable or Disable The Widgetized Footer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:844
+msgid "Select to enable or disable the widgetized footer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:850
+msgid "Custom Copyright"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:851
+msgid "Add your own custom text/html for copyright region."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:856
+msgid "Tracking"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:859
+msgid "Tracking Code (Header)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:860
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:865
+msgid "Tracking Code (Footer)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:866
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:872
+msgid "Backup Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:875
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:879
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time.<br /><br />This is useful if you want to "
+"experiment on the options but would like to keep the old settings in case "
+"you need it back."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:882
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:886
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options."
+msgstr ""
+
+#: ../functions/breadcrumbs.php:19
+msgid "You are here"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:214
+msgid " Page"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:74
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:75
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:76
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:88
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:89
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/recommend-plugins.php:77
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/recommend-plugins.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:56
+msgid "Image Slide Options"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:61
+msgid "Enable/Disable Caption Title"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:62
+msgid "Select to enable or disable your slide caption."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:70
+msgid "Description"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:71
+msgid "Enter a description for your slide."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:77
+msgid "Slide Link URL"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:78
+msgid ""
+"Enter a URL to link this slide to - perfect for linking slides to pages on "
+"your site or other sites. Do not forget the http:// in the url. (Optional)"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:84
+#: ../functions/meta/meta-box-usage.php:126
+msgid "Link Target"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:85
+msgid "Select the target for the slide link."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:97
+msgid "Video Slide Options"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:102
+#: ../functions/meta/meta-box-usage.php:157
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:103
+msgid ""
+"Enter your video embed code for your slide. For ideal transition make your "
+"embeded code height match the height of other slides. <strong>Width of your "
+"video should be 970px</strong>."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:119
+#: ../functions/meta/meta-box-usage.php:178
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:120
+msgid "Enter a URL to link the title of this highlight to. Optional."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:127
+msgid ""
+"Select the target for the highlight link. Do not forget the http:// in the "
+"url. (Optional)"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:140
+msgid "Post Options"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:145
+msgid "Post Style"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:154
+msgid "Select your post style."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:158
+msgid ""
+"Enter your video embeded code if you want a video instead. <strong>Max width "
+"of 510px</strong>."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:165
+msgid "Enter your cost for the project details optional)"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:172
+msgid "Enter a client name the project details (optional)"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:179
+msgid "Enter a URL for the project details (optional)"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:196
+msgid "Position"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:197
+msgid "Enter a position for your staff member."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:209
+msgid "Image Slider"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:215
+msgid "Enable FullWidth Image Slider"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:221
+msgid ""
+"Choose to enable or disable the page slider based on image <a href=\"http://"
+"codex.wordpress.org/Using_Image_and_File_Attachments\">attachments</a>."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:229
+msgid "Template Options"
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:238
+msgid "Select a category for your blog page."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:244
+msgid ""
+"Select a category for your portfolio page.<br />For the filterable portfolio "
+"and portfolio by category it must be a parent category."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:250
+msgid "Select a category for your services page."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:256
+msgid ""
+"Select a category for your FAQs page.<br />Must choose a parent category."
+msgstr ""
+
+#: ../functions/meta/meta-box-usage.php:262
+msgid ""
+"Select a category for your staff page.<br />Must choose a parent category "
+"for the staff by category page template."
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:12
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:14
+msgid "Office - Flickr"
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:65
+#: ../functions/widgets/recent-portfolio.php:78
+#: ../functions/widgets/testimonials.php:71
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:70
+msgid "Flickr ID "
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:75
+msgid "Number:"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:82
+#: ../functions/widgets/testimonials.php:75
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:86
+#: ../functions/widgets/testimonials.php:79
+msgid "Offset (the number of posts to skip):"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:90
+msgid "Select a Category:"
+msgstr ""

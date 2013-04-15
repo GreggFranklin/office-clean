@@ -1,0 +1,228 @@
+==> v1.001 (03/01/2012)
+* initial released 
+
+==> v1.001 (03/02/2012)
+* Removed blank line at the top of breadcrumbs.php
+* Added important value to navigation menu to fix small Ipad bug.
+
++++++ Files Changed +++++
+
+* functions/breadcrumbs.php
+* style.css line 606 => background-color: #2b2b2b !important;
+
+
+==> v1.1 (03/02/2012)
+
+* Updated .PO files
+* Fix for static homepage content not working
+* Enabled shortcodes for homepage tagline.
+* Fixed homepage tagline title not working & added URL option
+* Added service staff categories
+* Added enable/disable option for content background pattern
+
+
++++++ Files Changed +++++
+
+* lang/default.po
+* lang/default.mo
+* index.php
+* theme-options.php
+* includes/home/static-page.php
+* functions.php
+* taxonomy-service_cats.php (added)
+* functions/breadcrumbs.php
+
+
+
+==> v1.2 (03/06/2012)
+
+* Added stylesheet for ie7 with some fixes
+* fixes javascript bugs for ie7
+* Added 8 more background choices to the admin panel
+* Added color option for homepage tagline line
+* Added color options for changing the navigation menu
+* Fixed bug with 2/3 and 3/4 column styles
+* Added/Fixed youtube social icon
+
++++++ Files Changed +++++
+
+* admin/theme-options.php
+* functions.php
+* header.php
+* style.css
+* css/responsive.css
+* css/ie7.css (added)
+* backgrounds/bg (added new images in this folder)
+
+
+==> v1.3 (03/17/2012)
+
+* Added list style shortcodes
+* Fixed issue with bullets not working in service tabs
+* Added filter posts by category to portfolio, staff, service post types - in the WP dashboard for easier management
+
++++++ Files Changed +++++
+
+* functions.php
+* template-services.php
+* taxonomy_service_cats.php
+* functions/shortcodes.php
+* mce/shortcode-popup.php
+* mce/office-shortcodes-iframe.php
+* mce/shortcodes/list.php (new)
+* images/shortcodes (new)
+
+
+
+==> v1.4 (03/25/2012)
+
+* Fixed issue with page slider pulling in images inserted to your posts.
+* Fixed child-theme not working issue + included sample child theme
+
++++++ Files Changed +++++
+
+* includes/page-slides.php
+* child-theme folder (added)
+
+
+==> v1.5 (04/16/2012)
+
+* Updated child-theme to include responsive css and theme panel backgrounds folder
+* Added featured image support to pages
+* Added lightbox to post thumbnails
+* Set slider images to an unlimited height cropping value - so you can setup your homepage slider with any height you want.
+* Added include (yes or no) option to images in the post media gallery so you can exclude any from your page sliders.
+* Added featured image support to service tabs - for adding icons (see demo)
+* Changed responsive css to allow callout-button on mobile layouts
+* Added landing page template
+
+
++++++ Files Changed +++++
+
+* child-theme - several files
+* header.php
+* single.php
+* functions.php
+* template-services.php
+* taxonomy-service_Cats.php
+* includes/page-slides.php
+* css/responsive.css
+* template-landing-page.php (added)
+
+
+==> v1.6 (04/22/2012)
+
+* Added staff-by-department template
+
++++++ Files Changed +++++
+
+* style.css
+* functions.php
+* css/responsive.css
+* js/jquery.staff.init
+
+
+==> v1.7 (04/25/2012)
+
+* 30+ more background options added
+* Theme options to select portfolio category for homepage module
+* Theme option to select blog category for homepage module
+* HTML5 tags added (footer, header, article, section...)
+* Drop-down meta option to select post type category for each page template
+     - unlimited filterable portfolios, tabbed  services, staff pages..etc
+* Added different social icon version - colored squares
+* Jquery now loads in the footer for faster site
+* .po and .mo updates
+* Added option to disable/enable portfolio post meta (date, category, details)
+
+
+==> v1.8 (05/13/2012)
+
+* Quick fix for FAQ's filtering.
+
++++++ Files Changed +++++
+
+*js/jquery.quicksandinit.faqs.js
+
+
+==> v1.9 (05/21/2012)
+
+* Updated Theme Options Panel (SMOF) to the latest version
+* Removed Home Highlights from search results
+* Comment enable/disable options in theme panel
+* Standardized search result design
+* Set mobile tablet Menu style to the drop-down
+* Added header search/phone number options
+* Option to disable search bar in the header
+* Added options for logo top margin and header padding
+* Edited how the Homepage Highlight featured images work to fix a bug with extra long titles
+* Added video slide option to homepage slider
+* Updated shortcode inserter to fix a bug where it doesn't work when your site address varies from your wp address
+* Added link target option to button shortcode inserter
+* Added options to change post-type slugs & names
+* Added theme option to enable/disable wpautop filter
+* Homepage highlight - option to open link in same or blank window
+* Slider option to open link in same or blank window
+* Added Google Font Options for main elements
+* Updated Portfolio widget to be able to choose specific category
+* Option added to theme panel so you can disable main wrapper shadow
+* Slider caption color options
+* Main site link color option
+* Options to export/import theme options
+* Added grid style portfolio post
+* PrettyPhoto updated
+* Comment support added to portfolio posts
+* Changed FAQ's filter links to dark color + highlight color for active
+* Pagination fixes
+* Fixed portfolio-by-category responsive bug
+* Moved slider up on portfolio so that it shows first in responsive mode.
+
++++++ Files Changed +++++
+
+* Too many
+
+
+==> v1.91 (06/15/2012)
+
+* updated admin/index.php and admin/functions/medialibrary-upload.php for a WP 3.4 fix.
+
+==> v1.92 (08/17/2012)
+
+* updated functions/breadcrumbs.php so that the breadcrumbs reflect custom post type name changes from the admin.
+
+
+
+==> v1.93 (09/13/2012)
+
+* Substituted the quicksand filter in the portfolio filterable template to isotope for better animations!
+
++++++ Files Changed +++++
+
+* template-portfolio-with-filter.php
+* Functions.php (lines 82-83)
+* js/jquery.isotope.min.js - ADDED
+* js/jquery.isotope.portfolio.js - ADDED
+* style.css - see the very bottom of the file
+
+==> v1.94 (09/13/2012)
+
+* WP 3.5 Fix: Removed include in rotator function, no longer necessary, might cause blank screen on media upload
+
+
++++++ Files Changed +++++
+
+* Functions.php
+* Single-portfolio.php (update not required, cleaned up the code)
+
+
+==> v1.95 (12/24/2012)
+
+* Updated flexslider version
+* Updated sample data .xml file
+* Added Gallery MetaBox support + updated docs to explain
+
+
++++++ Files Changed +++++
+
+* js/jquery.flexslider-min.js
+* SampleData.xml
